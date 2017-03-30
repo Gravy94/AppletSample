@@ -1,0 +1,17 @@
+bin
+lib
+classes
+target
+.settings
+.classpath
+.project
+.idea
+*.iml
+*~
+.DS_Store
+nb-configuration.xml
+nbactions.xml
+dependency-reduced-pom.xml
+tags
+.java-version
+src/test/resources/
